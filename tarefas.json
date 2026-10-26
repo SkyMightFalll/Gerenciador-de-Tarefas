@@ -1,0 +1,14 @@
+[
+    {
+        "descricao": "Ler livro \"Almas Gêmeas\".",
+        "status": false
+    },
+    {
+        "descricao": "Estudar Python.",
+        "status": false
+    },
+    {
+        "descricao": "Fazer novo projeto.",
+        "status": false
+    }
+]
